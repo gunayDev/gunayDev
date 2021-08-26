@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gunayDev
+- 👋 Hi, I’m Ekrem
 - 👀 I’m interested in Cyber Security, SIEM-SOC, Intrusion Detection
 - 🌱 I’m currently learning Go(LANG), Python, SIEM etc..
 - 📫 How to reach me Instagram: ekrem.gnyy, Mail: gunay_ekrem@hotmail.com
