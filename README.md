@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ekrem
 - 👀 I’m interested in Cyber Security, SIEM-SOC, Intrusion Detection
-- 🌱 I’m currently learning Go(LANG), Python, WAZUH, ElasticSearch, QRadar..
+- 🌱 I’m currently working pn Golang, Python, WAZUH, ElasticSearch, QRadar..
 - 📫 How to reach me Instagram: ekrem.gnyy, Mail: gunay_ekrem@hotmail.com
 
 <!---
