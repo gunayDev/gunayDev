@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ekrem
 - 👀 I’m interested in Cyber Security, SIEM-SOC, Intrusion Detection
 - 🌱 I’m currently working on Golang, Python, WAZUH, ElasticSearch, QRadar..
-- 📫 How to reach me Instagram: ekrem.gnyy, Mail: gunay_ekrem@hotmail.com
+- 📫 How to reach me Instagram: ekrem.vltl, Mail: gunay_ekrem@hotmail.com
 
 <!---
 gunayDev/gunayDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
